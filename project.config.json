@@ -1,0 +1,11 @@
+{
+  "appid": "wx9a2959e942efff0f",
+  "compileType": "game",
+  "projectname": "mian",
+  "setting": {
+    "es6": true,
+    "minify": true,
+    "urlCheck": false,
+    "autoAudits": false
+  }
+}
